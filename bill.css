@@ -1,0 +1,207 @@
+
+  @media (max-width: 1440px) {
+   
+    .Apex-container {
+        display: grid;
+        gap: 2rem;
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  @media(max-width:1000px){
+    .Apex-container{
+        display: grid;
+        gap: 2rem;
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 768px) {
+    
+    .Apex-container{
+        display: grid;
+        gap: 2rem;
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 575px) {
+    
+    .Apex-container {
+        display: grid;
+        gap: 2rem;
+      grid-template-columns: repeat(1, 1fr);
+      
+    }
+  }
+  
+  @media (max-width: 450px) {
+    .Apex-container {
+        display: grid;
+        gap: 2rem;
+      grid-template-columns: 1fr;
+    }
+  }
+
+.header-containerr{
+   
+  margin-bottom: 1rem;
+  padding: 1.5rem;
+ 
+}
+
+.bill-text{
+  text-align: center;
+}
+
+.bill-img{
+    border-radius: 50%;
+    height: 7rem;
+}
+
+.bill-img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.me{
+    font-size: 0.5rem;
+}
+
+.money-display-div{
+    
+    color: white;
+    background-color: #2ecc71;
+    background: linear-gradient(180deg, #2ecc71, #1abc9c);
+    padding: 10px;
+    margin: 10px 0;
+    font-weight: 700;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 0;
+    position: sticky;
+    z-index: 9999;
+}
+   
+
+
+
+.money-display{
+    font-size: 2.3rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+div{
+    margin: 0;
+}
+
+body{
+    
+    background-color: rgb(247, 245, 245);
+    
+}
+.sub-container{
+    border: 1px solid rgb(208, 208, 208);
+    background-color: white;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.div-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.price-text{
+    margin-top: -1rem ;
+    color: #64df57;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.name-text{
+    font-weight: bold;
+    font-size: 1.3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.image{
+    height: 6.5rem;
+}
+
+.div-price{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+
+.div-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.div-footer{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0.5rem;
+    
+}
+.sell-btn{
+    background-color:  	hsl(3, 86%, 64%) ;
+    color: #ffff;
+    height: 2.1rem;
+    border: 1px solid;
+    border-radius: 0.4rem;
+    cursor: pointer;
+}
+
+.buy-btn{
+    background-color: hsl(120, 73%, 75%) ;
+    color: #ffff;
+    height: 2.1rem;
+    border: 1px solid;
+    border-radius: 0.4rem;
+    cursor: pointer;
+}
+input{
+    background-color:  white ;
+    height: 2rem;
+    border: 1px solid rgb(215, 214, 214);
+    border-radius: 0.4rem;
+    cursor: pointer;
+    text-align: center;
+    font-size: 1rem;
+}
+.sell-btn:hover{
+    background-color: 	hsl(3, 86%, 68%);
+}
+.buy-btn:hover{
+    background-color: hsl(120, 73%, 78%);
+}
+
+.sell-btn:active{
+    background-color: 	hsl(3, 86%, 70%);
+}
+.buy-btn:active{
+    background-color: hsl(120, 73%, 80%);
+}
+
+
