@@ -1,5 +1,5 @@
 const products = [{
-    image: "images/big-mac.jpg",
+    image: "big-mac.jpg",
     name : "Big Mac",
     price : 2, 
     },
