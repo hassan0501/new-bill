@@ -5,142 +5,142 @@ const products = [{
     },
 
     {
-    image: "images/drone.jpg",
+    image: "drone.jpg",
     name: "Drone",
     price: 500
     
 },
 
 {
-    image: "images/monster-truck.jpg",
+    image: "monster-truck.jpg",
     name: "monster truck",
     price: 200000,
 
 },
 
 {
-    image: "images/book.jpg",
+    image: "book.jpg",
     name: "Harry Potter Book",
     price: 15
 },
 
 {
-    image:"images/lobster-dinner.jpg",
+    image:"lobster-dinner.jpg",
     name: "Lobster Dinner",
     price: 50
 },
 
 {
-    image: "images/year-of-netflix.jpg",
+    image: "year-of-netflix.jpg",
     name: "Yearly Netflix",
     price: 100
 },
 
 
 {
-    image: "images/smartphone.jpg",
+    image: "smartphone.jpg",
     name: "I phone",
     price: 1200
 },
 
 {
-    image:"images/rolex.jpg",
+    image:"rolex.jpg",
     name: "Rolex",
     price: 10000
 },
 
 {
-    image: "images/diamond-ring.jpg",
+    image: "diamond-ring.jpg",
     name: "Diamond ring",
     price: 15000
 },
 
 {
-    image:"images/gold-bar.jpg",
+    image:"gold-bar.jpg",
     name:"Gold Bar",
     price: 7000
 },
 
 {
-    image: "images/luxury-wine.jpg",
+    image: "luxury-wine.jpg",
     name:"Luxury Wine",
     price: 5000
 },
 
 {
-    image: "images/hot-tub.jpg",
+    image: "hot-tub.jpg",
     name: "Hot Tub",
     price: 6000
 },
 
 {
-    image: "images/ferrari.jpg",
+    image: "ferrari.jpg",
     name: "Ferrari",
     price: 12000000
 },
 
 {
-    image:"images/mansion.jpg",
+    image:"mansion.jpg",
     name: "Mansion",
     price : 50000000
 },
 
 {
-    image: "images/boeing-747.jpg",
+    image: "boeing-747.jpg",
     name: "Boeing 747",
     price: 700000000
 },
 
 {
-    image: "images/m1-abrams.jpg",
+    image: "m1-abrams.jpg",
     name:"Military Tank",
     price: 400000000
 },
 
 {
-    image: "images/mona-lisa.jpg",
+    image: "mona-lisa.jpg",
     name: "Mona Lisa",
     price : 800000000
 },
 
 {
-    image:"images/apache-helicopter.jpg",
+    image:"apache-helicopter.jpg",
     name : "Helicopter",
     price : 31000000
 },
 
 {
-    image: "images/skyscraper.jpg",
+    image: "skyscraper.jpg",
     name: "Skyscraper",
     price : 850000000
 },
 
 {
-    image: "images/cruise-ship.jpg",
+    image: "cruise-ship.jpg",
     name: "Cruise ship",
     price:  750000000
 },
 
 {
-    image: "images/nba-team.jpg",
+    image: "nba-team.jpg",
     name: "NBA Team",
     price: 2000000000
 },
 
 {
-    image:"images/single-family-home.jpg",
+    image:"single-family-home.jpg",
     name:"House",
     price: 300000
 },
 
 {
-    image:"images/tesla.jpg",
+    image:"tesla.jpg",
     name:"Tesla",
     price: 90000
 },
 
 {
-    image: "images/yacht.jpg",
+    image: "yacht.jpg",
     name:"Yacht",
     price: 650000000
 },
